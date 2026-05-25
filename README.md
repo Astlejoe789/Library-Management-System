@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1243" height="1018" alt="490540516-63223910-c1de-4af5-b89c-1f3f183e4321" src="https://github.com/user-attachments/assets/5243b952-21e0-4224-a45c-2945d0e9543c" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1180" height="772" alt="444967453-609d4a53-4c18-4f82-b7d5-ee061ca4da68" src="https://github.com/user-attachments/assets/421e3812-3e21-484d-90d9-f2e0d69be59b" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1124" height="710" alt="444967761-da7ec860-34c1-47ec-95f8-969b1ac1ab29" src="https://github.com/user-attachments/assets/a11a6de8-4882-4a9a-9ca0-34a71de7662e" />
 
 
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1030" height="449" alt="444967698-fdd097ae-a6fe-4a6c-9017-7c48576f72cf" src="https://github.com/user-attachments/assets/fed28152-304d-412b-861e-32534007ec54" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="871" height="1008" alt="444967542-c8f9a6f1-893f-4269-98c9-b3b059025ee7" src="https://github.com/user-attachments/assets/d82fbb78-a560-4f94-84f0-72e5cc8d8795" />
 
 
 
@@ -118,8 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="1151" height="862" alt="444967606-918de17f-c71d-41f9-be42-5d69edfe9511" src="https://github.com/user-attachments/assets/26e1d78d-f7aa-49b4-bbef-2ef69a831814" />
 
 
 # RESULT
